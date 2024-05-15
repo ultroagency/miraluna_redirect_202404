@@ -1,6 +1,7 @@
 {
   "current": {
     "storefront_hostname": "miraluna.vercel.app",
+    "checkout_logo_image": "shopify:\/\/shop_images\/miraluna-logo-emails.png",
     "content_for_index": [
 
     ]
