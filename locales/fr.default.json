@@ -4,6 +4,20 @@
       "thank_you": {
         "confirmed_title": "Votre commande a été expédiée"
       }
+    },
+    "notices": {
+      "order": {
+        "fulfillment_status": {
+          "fulfilled": "Expédiée"
+        }
+      }
+    }
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_list": {
+        "orders_title": "Expédiée"
+      }
     }
   }
 }
