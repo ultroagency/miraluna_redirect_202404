@@ -1,2 +1,9 @@
 {
+  "shopify": {
+    "checkout": {
+      "thank_you": {
+        "confirmed_title": "Votre commande a été expédiée"
+      }
+    }
+  }
 }
